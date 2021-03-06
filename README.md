@@ -1,2 +1,2 @@
 # IA-ML
-In this repo, I implement varios IA, and ML problems
+In this repo, I implement different IA, and ML problems
